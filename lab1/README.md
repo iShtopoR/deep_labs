@@ -5,7 +5,7 @@
 Чтобы собрать отчёт из Jupyter-ноутбука, используйте следующую команду:
 
 ```
-jupyter nbconvert --to pdf --template=../common/template.tplx eda_visualization.ipynb
+jupyter nbconvert --to pdf --template=../common/template.tplx lab1.ipynb
 ```
 
 Для того, чтобы повторить вычисления в ноутбуке, не забудьте установить зависимости в ваше (возможно виртуальное) окружение:
